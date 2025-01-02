@@ -25,3 +25,4 @@ Créer un projet orienté objet permettant de gérer des livres et leurs auteurs
 <h2>Outils</h2>
 
 - VSCode
+- Laragon
